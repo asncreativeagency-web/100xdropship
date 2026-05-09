@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Prayag Digital',
+      title: 'Prayag Digital | Digital Marketing Agency',
       htmlAttrs: {
         lang: 'en',
       },
@@ -30,15 +30,83 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template webfolio Multi-Purpose themeforest',
+          content: 'digital marketing agency, meta ads, social media management, shopify website, logo design, graphic design, video editing, prayag digital, online marketing, brand growth',
         },
         {
           name: 'description',
-          content: 'webfolio - Multi-Purpose Vue Nuxtjs Template',
+          content: 'Prayag Digital is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing. We help brands grow online.',
         },
         {
           name: 'author',
-          content: 'Uicamp',
+          content: 'Prayag Digital',
+        },
+        {
+          name: 'robots',
+          content: 'index, follow',
+        },
+        {
+          name: 'theme-color',
+          content: '#0f4c3a',
+        },
+
+        // Open Graph / Facebook / WhatsApp
+        {
+          property: 'og:type',
+          content: 'website',
+        },
+        {
+          property: 'og:url',
+          content: 'https://prayagdigital.com/',
+        },
+        {
+          property: 'og:title',
+          content: 'Prayag Digital | Digital Marketing Agency',
+        },
+        {
+          property: 'og:description',
+          content: 'Full-service digital marketing agency — Meta Ads, Social Media, Shopify, Logo Design, Graphic Design & Video Editing. We help brands grow online.',
+        },
+        {
+          property: 'og:image',
+          content: 'https://prayagdigital.com/assets/imgs/og-image.png',
+        },
+        {
+          property: 'og:image:width',
+          content: '1200',
+        },
+        {
+          property: 'og:image:height',
+          content: '630',
+        },
+        {
+          property: 'og:site_name',
+          content: 'Prayag Digital',
+        },
+        {
+          property: 'og:locale',
+          content: 'en_US',
+        },
+
+        // Twitter Card
+        {
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          name: 'twitter:url',
+          content: 'https://prayagdigital.com/',
+        },
+        {
+          name: 'twitter:title',
+          content: 'Prayag Digital | Digital Marketing Agency',
+        },
+        {
+          name: 'twitter:description',
+          content: 'Full-service digital marketing agency — Meta Ads, Social Media, Shopify, Logo Design, Graphic Design & Video Editing.',
+        },
+        {
+          name: 'twitter:image',
+          content: 'https://prayagdigital.com/assets/imgs/og-image.png',
         },
       ],
       link: [
@@ -46,6 +114,7 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/assets/imgs/favicon-new.png' },
         { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/assets/imgs/favicon-new.png' },
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/assets/imgs/favicon-new.png' },
+        { rel: 'canonical', href: 'https://prayagdigital.com/' },
         // Google Fonts
         {
           rel: 'stylesheet',

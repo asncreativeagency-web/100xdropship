@@ -47,4 +47,13 @@ const serviceData = {
     "Brand Guidelines Documentation"
   ]
 };
+
+useHead({
+  title: 'Logo Design Services | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Professional logo design by Prayag Digital. We craft unique, versatile logos that communicate your brand personality and values. From concept to brand guidelines.' },
+    { property: 'og:title', content: 'Logo Design Services | Prayag Digital' },
+    { property: 'og:description', content: 'Unique, versatile logo designs that communicate your brand personality.' },
+  ],
+});
 </script>

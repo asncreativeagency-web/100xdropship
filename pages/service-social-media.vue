@@ -47,4 +47,13 @@ const serviceData = {
     "Brand Voice Development"
   ]
 };
+
+useHead({
+  title: 'Social Media Management | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Professional social media management by Prayag Digital. We build your community, grow your brand presence, and create engaging content strategies across all platforms.' },
+    { property: 'og:title', content: 'Social Media Management | Prayag Digital' },
+    { property: 'og:description', content: 'Build your community and grow your brand with expert social media management.' },
+  ],
+});
 </script>

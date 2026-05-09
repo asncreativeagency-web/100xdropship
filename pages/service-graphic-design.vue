@@ -47,4 +47,13 @@ const serviceData = {
     "Infographics & Presentations"
   ]
 };
+
+useHead({
+  title: 'Graphic Design Services | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Creative graphic design services by Prayag Digital. Stunning visuals for social media, marketing campaigns, packaging, brochures, and brand collateral.' },
+    { property: 'og:title', content: 'Graphic Design Services | Prayag Digital' },
+    { property: 'og:description', content: 'Stunning graphic designs for social media, marketing campaigns, and brand collateral.' },
+  ],
+});
 </script>

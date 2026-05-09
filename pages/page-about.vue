@@ -38,15 +38,12 @@ import Intro from '@/components/page-about/Intro';
 import Numbers from '@/components/page-about/Numbers';
 import Services from '@/components/page-about/Services';
 
-// useHead({
-//   script: [{ src: '/assets/js/smoother-script.js', defer: true }],
-// });
-// onMounted(() => {
-//   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
-//   ScrollTrigger.normalizeScroll(true);
-//   ScrollSmoother.create({
-//     smooth: 2,
-//     effects: true,
-//   });
-// });
+useHead({
+  title: 'About Us | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Learn more about Prayag Digital, a results-driven digital marketing agency committed to helping businesses grow through innovative strategies and creative excellence.' },
+    { property: 'og:title', content: 'About Prayag Digital | Digital Marketing Agency' },
+    { property: 'og:description', content: 'Discover our story, our mission, and the team behind our results-driven digital marketing solutions.' },
+  ],
+});
 </script>

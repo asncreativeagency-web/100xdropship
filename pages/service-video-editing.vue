@@ -47,4 +47,13 @@ const serviceData = {
     "YouTube & Long-Form Editing"
   ]
 };
+
+useHead({
+  title: 'Video Editing Services | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Professional video editing by Prayag Digital. From social media reels to brand stories, we deliver cinematic quality with motion graphics, color grading, and sound design.' },
+    { property: 'og:title', content: 'Video Editing Services | Prayag Digital' },
+    { property: 'og:description', content: 'Professional video editing for reels, ads, and brand stories with cinematic quality.' },
+  ],
+});
 </script>

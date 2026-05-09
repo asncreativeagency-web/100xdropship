@@ -47,4 +47,13 @@ const serviceData = {
     "Performance Scaling"
   ]
 };
+
+useHead({
+  title: 'Meta Ads Services | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Expert Meta Ads management by Prayag Digital. Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting and creative optimization.' },
+    { property: 'og:title', content: 'Meta Ads Services | Prayag Digital' },
+    { property: 'og:description', content: 'Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting.' },
+  ],
+});
 </script>

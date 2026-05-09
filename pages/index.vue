@@ -40,15 +40,29 @@ import Feat from '@/components/home-digital-agency/Feat';
 import Testimonials from '@/components/home-digital-agency/Testimonials';
 import Blog from '@/components/home-digital-agency/Blog';
 
-// useHead({
-//   script: [{ src: '/assets/js/smoother-script.js', defer: true }],
-// });
-// onMounted(() => {
-//   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
-//   ScrollTrigger.normalizeScroll(true);
-//   ScrollSmoother.create({
-//     smooth: 2,
-//     effects: true,
-//   });
-// });
+useHead({
+  title: 'Prayag Digital | Digital Marketing Agency',
+  meta: [
+    { name: 'description', content: 'Prayag Digital is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.' },
+  ],
+  script: [
+    {
+      type: 'application/ld+json',
+      children: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Prayag Digital',
+        url: 'https://prayagdigital.com',
+        logo: 'https://prayagdigital.com/assets/imgs/logo.png',
+        description: 'Full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.',
+        sameAs: [],
+        contactPoint: {
+          '@type': 'ContactPoint',
+          contactType: 'customer service',
+          availableLanguage: ['English', 'Hindi'],
+        },
+      }),
+    },
+  ],
+});
 </script>
