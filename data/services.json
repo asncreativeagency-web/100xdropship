@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Meta Ads",
+    "img": "/assets/imgs/serv-icons/3.png",
+    "desc": "Effective Facebook and Instagram ad campaigns to reach your target audience and boost engagement.",
+    "link": "/service-meta-ads"
+  },
+  {
+    "title": "Social Media Management",
+    "img": "/assets/imgs/serv-icons/5.png",
+    "desc": "Comprehensive social media management to build brand awareness and foster community growth.",
+    "link": "/service-social-media"
+  },
+  {
+    "title": "Shopify Website",
+    "img": "/assets/imgs/serv-icons/4.png",
+    "desc": "Custom Shopify store development and optimization for a seamless e-commerce experience.",
+    "link": "/service-shopify"
+  },
+  {
+    "title": "Logo Design",
+    "img": "/assets/imgs/serv-icons/1.png",
+    "desc": "Unique, memorable logo designs that capture your brand identity and leave a lasting impression.",
+    "link": "/service-logo-design"
+  },
+  {
+    "title": "Graphic Design",
+    "img": "/assets/imgs/serv-icons/2.png",
+    "desc": "Eye-catching visuals and creative designs for all your marketing and branding needs.",
+    "link": "/service-graphic-design"
+  },
+  {
+    "title": "Video Editing",
+    "img": "/assets/imgs/serv-icons/6.png",
+    "desc": "Professional video editing services to create compelling content that engages and converts.",
+    "link": "/service-video-editing"
+  }
+]

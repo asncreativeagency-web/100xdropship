@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/imgs/testim/t1.jpg",
+    "name": "Sarah Jenkins",
+    "subName": "Founder, Glow Apparel",
+    "desc": "Prayag Digital transformed our online presence. Our Meta ads ROAS increased by 300% in just two months!"
+  },
+  {
+    "img": "/assets/imgs/testim/t2.jpg",
+    "name": "Michael Ross",
+    "subName": "CEO, TechFlow",
+    "desc": "Their Google Ads strategy captures high-intent leads consistently. We've scaled our operations thanks to the reliable influx of customers."
+  },
+  {
+    "img": "/assets/imgs/testim/t3.jpg",
+    "name": "David Chen",
+    "subName": "Director, Urban Eats",
+    "desc": "The social media handling is top-notch. Our engagement has skyrocketed, and we've built a real community around our brand."
+  },
+  {
+    "img": "/assets/imgs/testim/t4.jpg",
+    "name": "Emily White",
+    "subName": "Owner, Purely Organic",
+    "desc": "They built us a stunning Shopify store that converts. The seamless integration with our ad campaigns has been a game-changer."
+  }
+]

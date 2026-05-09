@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/imgs/team/1.jpg",
+    "name": "Arjun Mehta",
+    "subName": "Marketing Director"
+  },
+  {
+    "img": "/assets/imgs/team/2.jpg",
+    "name": "Priya Singh",
+    "subName": "Paid Ads Specialist"
+  },
+  {
+    "img": "/assets/imgs/team/3.jpg",
+    "name": "Rahul Verma",
+    "subName": "Content Strategist"
+  }
+]
