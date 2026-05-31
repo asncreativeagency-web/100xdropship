@@ -13,20 +13,17 @@
             </div>
             <div class="morinfo mt-30 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Email</h6>
-              <p>Support@UiCamp.com</p>
+              <p><a href="mailto:hello@100xdropship.com">hello@100xdropship.com</a></p>
             </div>
 
             <div class="social-icon mt-50">
-              <a href="#0">
-                <i class="fab fa-facebook-f"></i>
+              <a href="https://whatsapp.com/channel/0029VbBkX6k7YSd6T7j1pw1o" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-whatsapp"></i>
               </a>
-              <a href="#0">
-                <i class="fab fa-dribbble"></i>
+              <a href="https://www.youtube.com/@100xdropship" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-youtube"></i>
               </a>
-              <a href="#0">
-                <i class="fab fa-behance"></i>
-              </a>
-              <a href="#0">
+              <a href="https://www.instagram.com/100xdropship?igsh=MTMzaGdjcmoxdnFjeg==" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-instagram"></i>
               </a>
             </div>

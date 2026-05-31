@@ -31,7 +31,7 @@
                   <span class="l-block">
                     "Data without creative is just numbers. Creative without data is just art. Marketing happens where they meet."
                   </span>
-                  <span class="sub-title mt-20 mb-0"> - Prayag Digital</span>
+                  <span class="sub-title mt-20 mb-0"> - 100x Dropship</span>
                 </h6>
               </div>
 
@@ -116,7 +116,7 @@
                   <div class="full-width">
                     <h6 class="fw-600 mb-10">Arjun Mehta</h6>
                     <p>
-                      Marketing Director at Prayag Digital. Expert in scaling brands through data-driven paid media strategies.
+                      Marketing Director at 100x Dropship. Expert in scaling brands through data-driven paid media strategies.
                     </p>
                   </div>
                 </div>

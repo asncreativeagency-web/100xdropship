@@ -27,10 +27,10 @@ import Contact from '@/components/page-contact/Contact';
 import Map from '@/components/page-contact/Map';
 
 useHead({
-  title: 'Contact Us | Prayag Digital',
+  title: 'Contact Us | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Get in touch with Prayag Digital today. Let\'s discuss how we can help your brand grow with our expert digital marketing and design services.' },
-    { property: 'og:title', content: 'Contact Prayag Digital | Get a Quote' },
+    { name: 'description', content: 'Get in touch with 100x Dropship today. Let\'s discuss how we can help your brand grow with our expert digital marketing and design services.' },
+    { property: 'og:title', content: 'Contact 100x Dropship | Get a Quote' },
     { property: 'og:description', content: 'Reach out to us for a consultation and discover how we can elevate your brand\'s digital presence.' },
   ],
 });

@@ -11,7 +11,9 @@ onMounted(() => {
 
   const animateit = function (e) {
     const hoverAnim = this.querySelector('.hover-anim');
-    const { offsetX: x, offsetY: y } = e;
+    const rect = this.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
     const { offsetWidth: width, offsetHeight: height } = this;
     const move = 25;
     const xMove = (x / width) * (move * 2) - move;

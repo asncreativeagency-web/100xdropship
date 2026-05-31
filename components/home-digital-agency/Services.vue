@@ -57,8 +57,27 @@ function handleActiveSer(event) {
 </script>
 
 <style scoped>
+.services-modern .serv-boxs {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px 0;
+}
 .services-modern .item {
   position: relative;
+  flex: 1;
+  min-width: 90px;
+  max-width: 130px;
+  width: auto !important; /* Override style.css absolute width */
+  transition: all 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+  overflow: hidden;
+}
+.services-modern .item.active {
+  flex: 5;
+  min-width: 320px;
+  max-width: 500px;
+  width: auto !important; /* Override style.css active width */
 }
 .services-modern .item .full-link-overlay {
   position: absolute;
@@ -71,7 +90,46 @@ function handleActiveSer(event) {
 .services-modern .item .bottom-tag {
   position: absolute;
   bottom: 40px;
-  left: 30px;
-  right: 30px;
+  left: 20px;
+  right: 20px;
+  width: calc(100% - 40px);
+  transition: all 0.3s ease;
+}
+/* Ensure the description paragraph is styled cleanly */
+.services-modern .item p {
+  font-size: 15px !important;
+  line-height: 1.6;
+  text-indent: 0 !important; /* Remove the extreme indent to make it look clean */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  margin-top: 20px;
+  white-space: normal;
+}
+.services-modern .item.active p {
+  opacity: 0.9;
+}
+/* Rotate titles on collapsed items for a clean vertical text presentation! */
+.services-modern .item:not(.active) .bottom-tag {
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: max-content;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+.services-modern .item:not(.active) .bottom-tag h6 {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+  border: none !important;
+  padding: 0 !important;
+  margin-top: 10px;
+  font-size: 12px !important;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+.services-modern .item:not(.active) .icon-img-60 {
+  margin: 0 auto;
 }
 </style>

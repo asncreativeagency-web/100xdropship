@@ -92,7 +92,7 @@
               </div>
             </div>
             <div class="img fit-img">
-              <img src="https://images.unsplash.com/photo-1556742046-80f0746227a1?q=80&w=1000&auto=format&fit=crop" alt="" />
+              <img src="/assets/imgs/blog/shopify_scale.png" alt="" />
             </div>
             <div class="cont pt-30">
               <h5>Scaling Your Shopify Store: A Guide</h5>

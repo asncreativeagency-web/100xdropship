@@ -1,38 +1,62 @@
 [
   {
-    "title": "Meta Ads",
+    "title": "Meta Ads Run",
     "img": "/assets/imgs/serv-icons/3.png",
-    "desc": "Effective Facebook and Instagram ad campaigns to reach your target audience and boost engagement.",
+    "desc": "High-converting Facebook & Instagram ad campaigns designed to reach buyers, optimize ad spend, and maximize ROI.",
     "link": "/service-meta-ads"
   },
   {
-    "title": "Social Media Management",
-    "img": "/assets/imgs/serv-icons/5.png",
-    "desc": "Comprehensive social media management to build brand awareness and foster community growth.",
-    "link": "/service-social-media"
-  },
-  {
-    "title": "Shopify Website",
+    "title": "Shopify Website Development",
     "img": "/assets/imgs/serv-icons/4.png",
-    "desc": "Custom Shopify store development and optimization for a seamless e-commerce experience.",
+    "desc": "Stunning, speed-optimized e-commerce stores designed for maximum conversions and seamless shopping experiences.",
     "link": "/service-shopify"
   },
   {
-    "title": "Logo Design",
-    "img": "/assets/imgs/serv-icons/1.png",
-    "desc": "Unique, memorable logo designs that capture your brand identity and leave a lasting impression.",
-    "link": "/service-logo-design"
+    "title": "Facebook Agency Ad Account",
+    "img": "/assets/imgs/serv-icons/0.png",
+    "desc": "Premium, high-limit Facebook agency ad accounts with active profiles to scale massive campaigns without restrictions.",
+    "link": "/page-contact?service=agency-account"
   },
   {
-    "title": "Graphic Design",
-    "img": "/assets/imgs/serv-icons/2.png",
-    "desc": "Eye-catching visuals and creative designs for all your marketing and branding needs.",
-    "link": "/service-graphic-design"
+    "title": "Social Media Handling",
+    "img": "/assets/imgs/serv-icons/5.png",
+    "desc": "Complete organic brand growth, community building, and content strategy across Instagram, TikTok, and YouTube.",
+    "link": "/service-social-media"
   },
   {
     "title": "Video Editing",
     "img": "/assets/imgs/serv-icons/6.png",
-    "desc": "Professional video editing services to create compelling content that engages and converts.",
+    "desc": "Cinematic, scroll-stopping video edits, viral TikToks, Reels, and highly engaging promotional video assets.",
     "link": "/service-video-editing"
+  },
+  {
+    "title": "Graphic Design",
+    "img": "/assets/imgs/serv-icons/2.png",
+    "desc": "Premium visual assets, custom brand layouts, packaging, and high-impact social media creatives that define your brand.",
+    "link": "/service-graphic-design"
+  },
+  {
+    "title": "Indian Dropshipping Setup",
+    "img": "/assets/imgs/serv-icons/1.png",
+    "desc": "Complete local e-commerce setup in India including product sourcing, COD optimization, and RTO reduction.",
+    "link": "/service-indian-dropshipping"
+  },
+  {
+    "title": "International Dropshipping",
+    "img": "/assets/imgs/serv-icons/4.png",
+    "desc": "Scale your e-commerce globally with fast-shipping suppliers, automated fulfillment, and worldwide scaling.",
+    "link": "/service-international-dropshipping"
+  },
+  {
+    "title": "Brand Building",
+    "img": "/assets/imgs/serv-icons/1.png",
+    "desc": "Build a memorable, high-value identity with professional logo design and premium voice guidelines.",
+    "link": "/service-brand-building"
+  },
+  {
+    "title": "Lead Generation",
+    "img": "/assets/imgs/serv-icons/3.png",
+    "desc": "Data-driven acquisition campaigns designed to fill your sales pipeline with high-intent qualified leads.",
+    "link": "/service-lead-generation"
   }
 ]

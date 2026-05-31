@@ -49,10 +49,10 @@ const serviceData = {
 };
 
 useHead({
-  title: 'Meta Ads Services | Prayag Digital',
+  title: 'Meta Ads Services | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Expert Meta Ads management by Prayag Digital. Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting and creative optimization.' },
-    { property: 'og:title', content: 'Meta Ads Services | Prayag Digital' },
+    { name: 'description', content: 'Expert Meta Ads management by 100x Dropship. Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting and creative optimization.' },
+    { property: 'og:title', content: 'Meta Ads Services | 100x Dropship' },
     { property: 'og:description', content: 'Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting.' },
   ],
 });

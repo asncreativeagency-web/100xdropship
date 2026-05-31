@@ -75,22 +75,34 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <NuxtLink class="dropdown-item" to="/service-meta-ads"> Meta Ads </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/service-meta-ads"> Meta Ads Run </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/service-social-media"> Social Media Management </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/service-shopify"> Shopify Website Development </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/service-shopify"> Shopify Website </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/page-contact?service=agency-account"> Facebook Agency Ad Account </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/service-logo-design"> Logo Design </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/service-social-media"> Social Media Handling </NuxtLink>
+              </li>
+              <li>
+                <NuxtLink class="dropdown-item" to="/service-video-editing"> Video Editing </NuxtLink>
               </li>
               <li>
                 <NuxtLink class="dropdown-item" to="/service-graphic-design"> Graphic Design </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/service-video-editing"> Video Editing </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/service-indian-dropshipping"> Indian Dropshipping Setup </NuxtLink>
+              </li>
+              <li>
+                <NuxtLink class="dropdown-item" to="/service-international-dropshipping"> International Dropshipping </NuxtLink>
+              </li>
+              <li>
+                <NuxtLink class="dropdown-item" to="/service-brand-building"> Brand Building </NuxtLink>
+              </li>
+              <li>
+                <NuxtLink class="dropdown-item" to="/service-lead-generation"> Lead Generation </NuxtLink>
               </li>
             </ul>
           </li>

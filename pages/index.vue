@@ -41,9 +41,9 @@ import Testimonials from '@/components/home-digital-agency/Testimonials';
 import Blog from '@/components/home-digital-agency/Blog';
 
 useHead({
-  title: 'Prayag Digital | Digital Marketing Agency',
+  title: '100x Dropship | Digital Marketing Agency',
   meta: [
-    { name: 'description', content: 'Prayag Digital is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.' },
+    { name: 'description', content: '100x Dropship is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.' },
   ],
   script: [
     {
@@ -51,9 +51,9 @@ useHead({
       children: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Organization',
-        name: 'Prayag Digital',
-        url: 'https://prayagdigital.com',
-        logo: 'https://prayagdigital.com/assets/imgs/logo.png',
+        name: '100x Dropship',
+        url: 'https://100xdropship.com',
+        logo: 'https://100xdropship.com/assets/imgs/logo.png',
         description: 'Full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.',
         sameAs: [],
         contactPoint: {

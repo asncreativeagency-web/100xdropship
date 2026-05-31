@@ -15,7 +15,7 @@
               Pkwy, Birmingham
             </h6>
             <h6 class="mt-30 mb-15">
-              <a href="#0">Hello@prayagdigital.com</a>
+              <a href="mailto:hello@100xdropship.com">hello@100xdropship.com</a>
             </h6>
             <a href="#0" class="underline">
               <span class="fz-22 main-color">+91 98765 43210</span>
@@ -52,22 +52,17 @@
             </div>
             <ul class="rest social-icon d-flex align-items-center">
               <li class="hover-this cursor-pointer">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-facebook-f"></i>
+                <a href="https://whatsapp.com/channel/0029VbBkX6k7YSd6T7j1pw1o" target="_blank" rel="noopener noreferrer" class="hover-anim">
+                  <i class="fab fa-whatsapp"></i>
                 </a>
               </li>
               <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-dribbble"></i>
+                <a href="https://www.youtube.com/@100xdropship" target="_blank" rel="noopener noreferrer" class="hover-anim">
+                  <i class="fab fa-youtube"></i>
                 </a>
               </li>
               <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
+                <a href="https://www.instagram.com/100xdropship?igsh=MTMzaGdjcmoxdnFjeg==" target="_blank" rel="noopener noreferrer" class="hover-anim">
                   <i class="fab fa-instagram"></i>
                 </a>
               </li>
@@ -79,7 +74,7 @@
         <div class="row align-items-center">
           <div class="col-md-6 text-center text-md-start">
             <p class="fz-14">
-              © 2026 Prayag Digital. All Rights Reserved.
+              © 2026 100x Dropship. All Rights Reserved.
             </p>
           </div>
           <div class="col-md-6 text-center text-md-end mt-3 mt-md-0">

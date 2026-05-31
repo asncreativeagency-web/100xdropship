@@ -49,10 +49,10 @@ const serviceData = {
 };
 
 useHead({
-  title: 'Video Editing Services | Prayag Digital',
+  title: 'Video Editing Services | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Professional video editing by Prayag Digital. From social media reels to brand stories, we deliver cinematic quality with motion graphics, color grading, and sound design.' },
-    { property: 'og:title', content: 'Video Editing Services | Prayag Digital' },
+    { name: 'description', content: 'Professional video editing by 100x Dropship. From social media reels to brand stories, we deliver cinematic quality with motion graphics, color grading, and sound design.' },
+    { property: 'og:title', content: 'Video Editing Services | 100x Dropship' },
     { property: 'og:description', content: 'Professional video editing for reels, ads, and brand stories with cinematic quality.' },
   ],
 });

@@ -49,10 +49,10 @@ const serviceData = {
 };
 
 useHead({
-  title: 'Shopify Website Development | Prayag Digital',
+  title: 'Shopify Website Development | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Custom Shopify store development by Prayag Digital. We build high-converting e-commerce stores with stunning designs, optimized for sales and user experience.' },
-    { property: 'og:title', content: 'Shopify Website Development | Prayag Digital' },
+    { name: 'description', content: 'Custom Shopify store development by 100x Dropship. We build high-converting e-commerce stores with stunning designs, optimized for sales and user experience.' },
+    { property: 'og:title', content: 'Shopify Website Development | 100x Dropship' },
     { property: 'og:description', content: 'High-converting Shopify stores designed for sales and user experience.' },
   ],
 });

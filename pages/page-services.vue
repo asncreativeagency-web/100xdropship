@@ -37,10 +37,10 @@ import Header from '@/components/page-services/Header';
 import Numbers from '@/components/page-services/Numbers';
 
 useHead({
-  title: 'Our Services | Prayag Digital',
+  title: 'Our Services | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Explore the full range of digital marketing services offered by Prayag Digital, from Meta Ads and Social Media Management to Shopify Development and Graphic Design.' },
-    { property: 'og:title', content: 'Digital Marketing Services | Prayag Digital' },
+    { name: 'description', content: 'Explore the full range of digital marketing services offered by 100x Dropship, from Meta Ads and Social Media Management to Shopify Development and Graphic Design.' },
+    { property: 'og:title', content: 'Digital Marketing Services | 100x Dropship' },
     { property: 'og:description', content: 'Comprehensive digital marketing solutions to help your brand thrive in the digital landscape.' },
   ],
 });

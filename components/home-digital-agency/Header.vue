@@ -4,7 +4,7 @@
       <div class="row mb-100">
         <div class="col-lg-12">
           <div class="caption">
-            <h1>Prayag Digital</h1>
+            <h1>100x Dropship</h1>
             <div class="row align-items-center">
               <div class="col-lg-4 order-md-2">
                 <p>

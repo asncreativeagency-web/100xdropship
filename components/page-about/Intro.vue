@@ -20,7 +20,7 @@
         <div class="col-lg-6 valign">
           <div class="cont">
             <h3 class="mb-30">
-              Prayag Digital is a full-service
+              100x Dropship is a full-service
               <span class="fw-200">growth agency</span> delivering data-driven
               <span class="fw-200">marketing solutions</span> & results.
             </h3>

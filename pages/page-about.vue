@@ -39,10 +39,10 @@ import Numbers from '@/components/page-about/Numbers';
 import Services from '@/components/page-about/Services';
 
 useHead({
-  title: 'About Us | Prayag Digital',
+  title: 'About Us | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Learn more about Prayag Digital, a results-driven digital marketing agency committed to helping businesses grow through innovative strategies and creative excellence.' },
-    { property: 'og:title', content: 'About Prayag Digital | Digital Marketing Agency' },
+    { name: 'description', content: 'Learn more about 100x Dropship, a results-driven digital marketing agency committed to helping businesses grow through innovative strategies and creative excellence.' },
+    { property: 'og:title', content: 'About 100x Dropship | Digital Marketing Agency' },
     { property: 'og:description', content: 'Discover our story, our mission, and the team behind our results-driven digital marketing solutions.' },
   ],
 });

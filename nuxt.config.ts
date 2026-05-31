@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Prayag Digital | Digital Marketing Agency',
+      title: '100x Dropship | Digital Marketing Agency',
       htmlAttrs: {
         lang: 'en',
       },
@@ -30,15 +30,15 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'digital marketing agency, meta ads, social media management, shopify website, logo design, graphic design, video editing, prayag digital, online marketing, brand growth',
+          content: 'digital marketing agency, meta ads, social media management, shopify website, logo design, graphic design, video editing, 100x dropship, online marketing, brand growth',
         },
         {
           name: 'description',
-          content: 'Prayag Digital is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing. We help brands grow online.',
+          content: '100x Dropship is a full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing. We help brands grow online.',
         },
         {
           name: 'author',
-          content: 'Prayag Digital',
+          content: '100x Dropship',
         },
         {
           name: 'robots',
@@ -56,11 +56,11 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:url',
-          content: 'https://prayagdigital.com/',
+          content: 'https://100xdropship.com/',
         },
         {
           property: 'og:title',
-          content: 'Prayag Digital | Digital Marketing Agency',
+          content: '100x Dropship | Digital Marketing Agency',
         },
         {
           property: 'og:description',
@@ -68,7 +68,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:image',
-          content: 'https://prayagdigital.com/assets/imgs/og-image.png',
+          content: 'https://100xdropship.com/assets/imgs/og-image.png',
         },
         {
           property: 'og:image:width',
@@ -80,7 +80,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:site_name',
-          content: 'Prayag Digital',
+          content: '100x Dropship',
         },
         {
           property: 'og:locale',
@@ -94,11 +94,11 @@ export default defineNuxtConfig({
         },
         {
           name: 'twitter:url',
-          content: 'https://prayagdigital.com/',
+          content: 'https://100xdropship.com/',
         },
         {
           name: 'twitter:title',
-          content: 'Prayag Digital | Digital Marketing Agency',
+          content: '100x Dropship | Digital Marketing Agency',
         },
         {
           name: 'twitter:description',
@@ -106,7 +106,7 @@ export default defineNuxtConfig({
         },
         {
           name: 'twitter:image',
-          content: 'https://prayagdigital.com/assets/imgs/og-image.png',
+          content: 'https://100xdropship.com/assets/imgs/og-image.png',
         },
       ],
       link: [
@@ -114,7 +114,7 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/assets/imgs/favicon-new.png' },
         { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/assets/imgs/favicon-new.png' },
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/assets/imgs/favicon-new.png' },
-        { rel: 'canonical', href: 'https://prayagdigital.com/' },
+        { rel: 'canonical', href: 'https://100xdropship.com/' },
         // Google Fonts
         {
           rel: 'stylesheet',

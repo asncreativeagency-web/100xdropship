@@ -49,10 +49,10 @@ const serviceData = {
 };
 
 useHead({
-  title: 'Social Media Management | Prayag Digital',
+  title: 'Social Media Management | 100x Dropship',
   meta: [
-    { name: 'description', content: 'Professional social media management by Prayag Digital. We build your community, grow your brand presence, and create engaging content strategies across all platforms.' },
-    { property: 'og:title', content: 'Social Media Management | Prayag Digital' },
+    { name: 'description', content: 'Professional social media management by 100x Dropship. We build your community, grow your brand presence, and create engaging content strategies across all platforms.' },
+    { property: 'og:title', content: 'Social Media Management | 100x Dropship' },
     { property: 'og:description', content: 'Build your community and grow your brand with expert social media management.' },
   ],
 });
