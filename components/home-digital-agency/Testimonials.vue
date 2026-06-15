@@ -38,21 +38,6 @@
                           with a team that can get the job done.
                         </p>
                       </div>
-                      <div
-                        class="info d-flex align-items-center pt-40 mt-40 bord-thin-top"
-                      >
-                        <div>
-                          <div class="fit-img circle">
-                            <img src="/assets/imgs/testim/t1.jpg" alt="" />
-                          </div>
-                        </div>
-                        <div class="ml-20">
-                          <h5>Adam Beckley</h5>
-                          <span class="sub-title main-color">
-                            Founder & CEO
-                          </span>
-                        </div>
-                      </div>
                     </div>
                   </div>
                 </SwiperSlide>
@@ -66,21 +51,6 @@
                           professionalism. It really feels like you are working
                           with a team that can get the job done.
                         </p>
-                      </div>
-                      <div
-                        class="info d-flex align-items-center pt-40 mt-40 bord-thin-top"
-                      >
-                        <div>
-                          <div class="fit-img circle">
-                            <img src="/assets/imgs/testim/t2.jpg" alt="" />
-                          </div>
-                        </div>
-                        <div class="ml-20">
-                          <h5>Adam Beckley</h5>
-                          <span class="sub-title main-color">
-                            Founder & CEO
-                          </span>
-                        </div>
                       </div>
                     </div>
                   </div>

@@ -23,8 +23,11 @@
               <a href="https://www.youtube.com/@100xdropship" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-youtube"></i>
               </a>
-              <a href="https://www.instagram.com/100xdropship?igsh=MTMzaGdjcmoxdnFjeg==" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/100xdropship_?igsh=MXJxeGl3N3Q5MXoxMw==" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-instagram"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/e-com-adarsh-848132381/" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
           </div>

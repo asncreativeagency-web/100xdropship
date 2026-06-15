@@ -152,3 +152,10 @@ function handleMouseEnter(event) {
   }
 }
 </script>
+
+<style scoped>
+.portfolio-tab.crev .cluom h4 a {
+  color: #fff !important;
+  -webkit-text-stroke: 0px transparent !important;
+}
+</style>

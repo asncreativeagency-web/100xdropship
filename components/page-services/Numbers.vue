@@ -5,7 +5,7 @@
         <div
           v-for="(item, index) in items"
           :key="index"
-          :class="['col-lg-4 col-md-6', { 'md-mb50': index < 2 }]"
+          :class="['col-lg-6 col-md-6', { 'md-mb50': index === 0 }]"
         >
           <div class="item text-center">
             <div class="o-hidden">
@@ -22,7 +22,6 @@
 <script setup>
 const items = [
   { value: '100%', subtitle: 'Clients Satisfaction' },
-  { value: '6700', subtitle: 'Projects Completed' },
-  { value: '34 +', subtitle: 'Awards Achievement' },
+  { value: '67', subtitle: 'Projects Completed' },
 ];
 </script>

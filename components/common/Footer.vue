@@ -33,6 +33,9 @@
                 <NuxtLink to="/page-services">Services</NuxtLink>
               </li>
               <li class="mb-15">
+                <NuxtLink to="/pricing">Pricing</NuxtLink>
+              </li>
+              <li class="mb-15">
                 <NuxtLink to="/blog-grid-sidebar">Blog</NuxtLink>
               </li>
               <li>
@@ -62,8 +65,13 @@
                 </a>
               </li>
               <li class="hover-this cursor-pointer ml-10">
-                <a href="https://www.instagram.com/100xdropship?igsh=MTMzaGdjcmoxdnFjeg==" target="_blank" rel="noopener noreferrer" class="hover-anim">
+                <a href="https://www.instagram.com/100xdropship_?igsh=MXJxeGl3N3Q5MXoxMw==" target="_blank" rel="noopener noreferrer" class="hover-anim">
                   <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li class="hover-this cursor-pointer ml-10">
+                <a href="https://www.linkedin.com/in/e-com-adarsh-848132381/" target="_blank" rel="noopener noreferrer" class="hover-anim">
+                  <i class="fab fa-linkedin-in"></i>
                 </a>
               </li>
             </ul>

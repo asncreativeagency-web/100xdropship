@@ -62,7 +62,7 @@
                       class="item bord-thin-top pt-30 d-flex align-items-end mt-20"
                     >
                       <div>
-                        <h3 class="fw-300 mb-10">6700</h3>
+                        <h3 class="fw-300 mb-10">67</h3>
                         <h6 class="p-color sub-title">Projects Completed</h6>
                       </div>
                       <div class="ml-auto">

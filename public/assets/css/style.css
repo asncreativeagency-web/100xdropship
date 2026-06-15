@@ -5148,7 +5148,7 @@ footer.clean-footer.crev .circle-blur {
 }
 
 .header-digital .cont .numb h2 {
-  margin-bottom: -20px;
+  margin-bottom: 0;
 }
 
 .header-personal {
@@ -5345,9 +5345,6 @@ footer.clean-footer.crev .circle-blur {
   font-size: 100px;
   font-weight: 800;
   line-height: 1;
-  -webkit-transform: translateY(20px);
-  -ms-transform: translateY(20px);
-  transform: translateY(20px);
 }
 
 .numbers-crev .item h6 {
@@ -5810,8 +5807,7 @@ footer.clean-footer.crev .circle-blur {
 
 .portfolio-tab.crev .cluom h4 a {
   font-weight: 800;
-  color: transparent;
-  -webkit-text-stroke: 0.5px #fff;
+  color: #fff;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -5819,11 +5815,6 @@ footer.clean-footer.crev .circle-blur {
 
 .portfolio-tab.crev .cluom h6 {
   white-space: nowrap;
-}
-
-.portfolio-tab.crev .cluom.current h4 a {
-  color: #fff;
-  -webkit-text-stroke: 0.5px transparent;
 }
 
 .portfolio-tab.crev .glry-img {

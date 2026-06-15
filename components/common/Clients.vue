@@ -77,32 +77,26 @@
 import { Swiper, SwiperSlide } from 'swiper/vue';
 const swiperOptions = {
   speed: 600,
-  slidesPerView: 5,
+  slidesPerView: 2,
   loop: true,
-  spaceBetween: 40,
+  spaceBetween: 20,
   centeredSlides: false,
 
   breakpoints: {
-    // when window width is >= 640px
-    640: {
-      loop: true,
-      slidesPerView: 2,
-      spaceBetween: 20,
-      centeredSlides: false,
-    },
-    // when window width is >= 768px
+    // when window width is >= 600px
     600: {
-      loop: true,
       slidesPerView: 3,
       spaceBetween: 30,
-      centeredSlides: false,
+    },
+    // when window width is >= 992px
+    992: {
+      slidesPerView: 4,
+      spaceBetween: 35,
     },
     // when window width is >= 1200px
     1200: {
-      loop: true,
       slidesPerView: 5,
       spaceBetween: 40,
-      centeredSlides: false,
     },
   },
 };

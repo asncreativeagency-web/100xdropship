@@ -213,25 +213,13 @@
 
                 a{
                     font-weight: 800;
-                    color: transparent;
-                    -webkit-text-stroke: 0.5px #fff;
+                    color: #fff;
                     transition: all .4s;
                 }
             }
 
             h6{
                 white-space: nowrap;
-            }
-
-            &.current{
-
-                h4{
-                    
-                    a{
-                        color: #fff;
-                        -webkit-text-stroke: 0.5px transparent;
-                    }
-                }
             }
         }
 

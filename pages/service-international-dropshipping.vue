@@ -13,6 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
+        <Pricing :plans="internationalDropshippingPlans" />
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -34,6 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
+import Pricing from '@/components/common/Pricing';
 
 const serviceData = {
   introTitle: "Scale Your Store to Global Markets.",
@@ -47,6 +49,51 @@ const serviceData = {
     "CJ Dropshipping, Zendrop, & Agent Integrations"
   ]
 };
+
+const internationalDropshippingPlans = [
+  {
+    title: 'Starter',
+    price: '$499',
+    period: '/ project',
+    popular: false,
+    features: [
+      'Global Shopify Store Setup',
+      '5 Trending E-Commerce Product Listings',
+      'Fast Shipping Agent Sourcing Setup',
+      'CJ Dropshipping & Zendrop Integrations',
+      'Multi-currency Pricing & Checkout Config'
+    ],
+    link: '/page-contact?service=international-dropshipping&plan=starter'
+  },
+  {
+    title: 'Growth',
+    price: '$1,199',
+    period: '/ project',
+    popular: true,
+    features: [
+      'Custom Responsive Store Layout Design',
+      'Private Agent Fulfillment Automated Setup',
+      'High-converting Cart & Checkout Optimizations',
+      'Facebook & Google Ad Campaigns Launch Setup',
+      'Dedicated Post-Launch Support (45 Days)'
+    ],
+    link: '/page-contact?service=international-dropshipping&plan=growth'
+  },
+  {
+    title: 'Scale',
+    price: 'Custom',
+    period: '/ pricing',
+    popular: false,
+    features: [
+      'Private Labeling & Custom Packaging Sourcing',
+      'Global 3PL Inventory & Logistics Warehouse Contracts',
+      'Multi-Market Global Localization (Languages + Currencies)',
+      'Advanced Customer Support Bot Automation',
+      'VIP Scale Consultation & Ad Strategy Audit'
+    ],
+    link: '/page-contact?service=international-dropshipping&plan=scale'
+  }
+];
 
 useHead({
   title: 'International Dropshipping Setup | 100x Dropship',

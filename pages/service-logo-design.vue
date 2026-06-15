@@ -13,6 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
+        <Pricing :plans="logoDesignPlans" />
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -34,6 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
+import Pricing from '@/components/common/Pricing';
 
 const serviceData = {
   introTitle: "Your Brand Starts With a Great Logo.",
@@ -47,6 +49,51 @@ const serviceData = {
     "Brand Guidelines Documentation"
   ]
 };
+
+const logoDesignPlans = [
+  {
+    title: 'Starter',
+    price: '$99',
+    period: '/ project',
+    popular: false,
+    features: [
+      '2 Custom Initial Logo Concepts',
+      'High-Resolution PNG/JPG Formats',
+      'Transparent Background Version',
+      '2 Revision Rounds',
+      '3-Day Delivery'
+    ],
+    link: '/page-contact?service=logo-design&plan=starter'
+  },
+  {
+    title: 'Growth',
+    price: '$199',
+    period: '/ project',
+    popular: true,
+    features: [
+      '4 Premium Logo Concepts',
+      'Vector Source Files (AI/EPS/PDF/SVG)',
+      'Brand Color Palette & Typography Rules',
+      'Unlimited Revisions',
+      'Priority Turnaround (24-48 Hours)'
+    ],
+    link: '/page-contact?service=logo-design&plan=growth'
+  },
+  {
+    title: 'Scale',
+    price: 'Custom',
+    period: '/ pricing',
+    popular: false,
+    features: [
+      'Complete Brand Identity Suite',
+      'Main Logo + Sub-Logos & Icons',
+      'Social Media Branding & Cover Kits',
+      'Business Card & Stationery Layouts',
+      'Priority 1-on-1 Design Consultation'
+    ],
+    link: '/page-contact?service=logo-design&plan=scale'
+  }
+];
 
 useHead({
   title: 'Logo Design Services | 100x Dropship',
