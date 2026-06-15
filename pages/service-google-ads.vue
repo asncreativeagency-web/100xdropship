@@ -13,7 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
-        <Pricing :plans="googleAdsPlans" />
+
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -35,7 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Pricing from '@/components/common/Pricing';
+
 
 const serviceData = {
   introTitle: "Capture High-Intent Traffic Instantly.",
@@ -50,48 +50,5 @@ const serviceData = {
   ]
 };
 
-const googleAdsPlans = [
-  {
-    title: 'Starter',
-    price: '$299',
-    period: '/ month',
-    popular: false,
-    features: [
-      'Search Campaigns Setup',
-      'High-Intent Keyword Sourcing',
-      'A/B Tested Ad Copywriting',
-      'Monthly Optimization Reports',
-      'Email Support'
-    ],
-    link: '/page-contact?service=google-ads&plan=starter'
-  },
-  {
-    title: 'Growth',
-    price: '$799',
-    period: '/ month',
-    popular: true,
-    features: [
-      'Search + Display + PMax Setup',
-      'Advanced Conversion Tracking (GTM)',
-      'Negative Keyword Management',
-      'Weekly Budget & Bid Adjustments',
-      'Weekly Call & Report Support'
-    ],
-    link: '/page-contact?service=google-ads&plan=growth'
-  },
-  {
-    title: 'Scale',
-    price: 'Custom',
-    period: '/ pricing',
-    popular: false,
-    features: [
-      'YouTube Ads + Omni-channel Strategy',
-      'Custom Analytics & Data Studio Dashboard',
-      'Competitor Keyword Hijacking',
-      'Dedicated Ad Optimization Expert',
-      'Priority Turnaround & Landing Page Audit'
-    ],
-    link: '/page-contact?service=google-ads&plan=scale'
-  }
-];
+
 </script>

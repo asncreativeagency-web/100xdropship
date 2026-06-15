@@ -13,7 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
-        <Pricing :plans="leadGenPlans" />
+
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -35,7 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Pricing from '@/components/common/Pricing';
+
 
 const serviceData = {
   introTitle: "Fill Your Sales Pipeline with High-Intent Buyers.",
@@ -50,50 +50,7 @@ const serviceData = {
   ]
 };
 
-const leadGenPlans = [
-  {
-    title: 'Starter',
-    price: '$399',
-    period: '/ month',
-    popular: false,
-    features: [
-      '1 Active Lead Campaign (Meta or Google)',
-      'High-Intent Lead Form Design',
-      'Targeted Lead Sourcing & Audience Split Testing',
-      'Basic Email Sequence Integration',
-      'Monthly Lead Quality Reports'
-    ],
-    link: '/page-contact?service=lead-generation&plan=starter'
-  },
-  {
-    title: 'Growth',
-    price: '$999',
-    period: '/ month',
-    popular: true,
-    features: [
-      'Multi-Channel Lead Capture Campaigns',
-      'High-Converting Landing Page Design',
-      'Advanced CRM & Autoresponder Integrations',
-      '10-Step Automated Email Sequence Builder',
-      'Bi-weekly CRM Synchronization & Call Support'
-    ],
-    link: '/page-contact?service=lead-generation&plan=growth'
-  },
-  {
-    title: 'Scale',
-    price: 'Custom',
-    period: '/ pricing',
-    popular: false,
-    features: [
-      'High-Volume Omni-channel Strategy (Ad Networks + Email)',
-      'Continuous Landing Page A/B Variant Testing',
-      'Custom Call-Center & Dialer Integrations',
-      'Lead Quality Scoring Automation Setup',
-      'Dedicated Sales Funnel Optimization Specialist'
-    ],
-    link: '/page-contact?service=lead-generation&plan=scale'
-  }
-];
+
 
 useHead({
   title: 'Lead Generation Services | 100x Dropship',

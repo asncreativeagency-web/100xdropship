@@ -33,9 +33,6 @@
                 <NuxtLink to="/page-services">Services</NuxtLink>
               </li>
               <li class="mb-15">
-                <NuxtLink to="/pricing">Pricing</NuxtLink>
-              </li>
-              <li class="mb-15">
                 <NuxtLink to="/blog-grid-sidebar">Blog</NuxtLink>
               </li>
               <li>

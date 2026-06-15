@@ -13,7 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
-        <Pricing :plans="graphicDesignPlans" />
+
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -35,7 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Pricing from '@/components/common/Pricing';
+
 
 const serviceData = {
   introTitle: "Visuals That Speak Louder Than Words.",
@@ -50,50 +50,7 @@ const serviceData = {
   ]
 };
 
-const graphicDesignPlans = [
-  {
-    title: 'Starter',
-    price: '$99',
-    period: '/ month',
-    popular: false,
-    features: [
-      '5 Custom Graphics / Banner Designs',
-      'Social Media Templates (Canva/Figma)',
-      'High-Resolution File Exports',
-      '2 Revision Rounds',
-      'Standard Turnaround (3-5 Days)'
-    ],
-    link: '/page-contact?service=graphic-design&plan=starter'
-  },
-  {
-    title: 'Growth',
-    price: '$299',
-    period: '/ month',
-    popular: true,
-    features: [
-      '15 Premium Design Assets',
-      'High-Converting Ad Creatives',
-      'Packaging & Product Label Mockups',
-      'Unlimited Revisions',
-      'Priority Turnaround (24-48 Hours)'
-    ],
-    link: '/page-contact?service=graphic-design&plan=growth'
-  },
-  {
-    title: 'Scale',
-    price: 'Custom',
-    period: '/ pricing',
-    popular: false,
-    features: [
-      'Dedicated Senior Graphic Designer',
-      'Unlimited Ongoing Design Requests',
-      'Brand Identity Sourcing & Rebranding',
-      'Infographics, PPT & Brochure Suites',
-      'Same-day Delivery for Urgencies'
-    ],
-    link: '/page-contact?service=graphic-design&plan=scale'
-  }
-];
+
 
 useHead({
   title: 'Graphic Design Services | 100x Dropship',

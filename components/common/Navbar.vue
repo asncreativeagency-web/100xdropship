@@ -50,9 +50,6 @@
                 <NuxtLink class="dropdown-item" to="/page-about"> About Us </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/pricing"> Pricing Plans </NuxtLink>
-              </li>
-              <li>
                 <NuxtLink class="dropdown-item" to="/page-team"> Our Team </NuxtLink>
               </li>
               <li>

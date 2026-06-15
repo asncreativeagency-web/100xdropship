@@ -13,7 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
-        <Pricing :plans="metaAdsPlans" />
+
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -35,7 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Pricing from '@/components/common/Pricing';
+
 
 const serviceData = {
   introTitle: "Maximize ROI with Precision Targeting.",
@@ -50,50 +50,7 @@ const serviceData = {
   ]
 };
 
-const metaAdsPlans = [
-  {
-    title: 'Starter',
-    price: '$299',
-    period: '/ month',
-    popular: false,
-    features: [
-      '1 Active Campaign Setup & Manage',
-      'Targeted Audience Selection',
-      'Basic Ad Creative & Copywriting',
-      'Monthly Optimization Reports',
-      'Email Support'
-    ],
-    link: '/page-contact?service=meta-ads&plan=starter'
-  },
-  {
-    title: 'Growth',
-    price: '$799',
-    period: '/ month',
-    popular: true,
-    features: [
-      'Up to 5 Active Campaigns',
-      'Advanced Retargeting & Custom Audiences',
-      'Multi-Variant Creative testing',
-      'Weekly Budget & Bid Optimizations',
-      'Weekly Call & Performance Reports'
-    ],
-    link: '/page-contact?service=meta-ads&plan=growth'
-  },
-  {
-    title: 'Scale',
-    price: 'Custom',
-    period: '/ pricing',
-    popular: false,
-    features: [
-      'Unlimited Campaigns & Scale Strategy',
-      'Premium Facebook Agency Accounts Included',
-      'Advanced Conversions API (CAPI) Integration',
-      'Daily Budget Auditing & Scaler',
-      'Dedicated Performance Marketing Manager'
-    ],
-    link: '/page-contact?service=meta-ads&plan=scale'
-  }
-];
+
 
 useHead({
   title: 'Meta Ads Services | 100x Dropship',

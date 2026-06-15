@@ -13,7 +13,7 @@
         />
         <Intro :data="serviceData" />
         <Feat />
-        <Pricing :plans="shopifyPlans" />
+
         <div style="padding-top: 140px">
           <Intro2 />
         </div>
@@ -35,7 +35,7 @@ import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Pricing from '@/components/common/Pricing';
+
 
 const serviceData = {
   introTitle: "High-Converting E-Commerce Stores.",
@@ -50,50 +50,7 @@ const serviceData = {
   ]
 };
 
-const shopifyPlans = [
-  {
-    title: 'Starter',
-    price: '$499',
-    period: '/ project',
-    popular: false,
-    features: [
-      'Premium Custom Template Installation',
-      'Standard Home & Product Page Layout',
-      '15 Winning Product Listings Sourced',
-      'Essential Conversion Apps Setup',
-      'Payment Gateway Integration Support'
-    ],
-    link: '/page-contact?service=shopify&plan=starter'
-  },
-  {
-    title: 'Growth',
-    price: '$999',
-    period: '/ project',
-    popular: true,
-    features: [
-      'Custom Responsive Layout & Theme Development',
-      'Advanced Speed & Mobile Optimization',
-      'Custom Cart Drawer & Slide-Out Logic',
-      'Custom Review & Trust Badge Sourcing',
-      'Post-Launch Site Management (30 Days)'
-    ],
-    link: '/page-contact?service=shopify&plan=growth'
-  },
-  {
-    title: 'Scale',
-    price: 'Custom',
-    period: '/ pricing',
-    popular: false,
-    features: [
-      'Fully Custom Head-less E-Commerce Build',
-      'Custom App Development & Complex API Syncs',
-      'B2B Portal & Wholesale Setup',
-      'Dedicated Developer for Ongoing Optimizations',
-      'Comprehensive Strategy Audit & SEO Launch Plan'
-    ],
-    link: '/page-contact?service=shopify&plan=scale'
-  }
-];
+
 
 useHead({
   title: 'Shopify Website Development | 100x Dropship',
