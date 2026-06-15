@@ -11,8 +11,9 @@
           <div class="column md-mb50">
             <h6 class="sub-title mb-30">Contact</h6>
             <h6 class="p-color fw-400">
-              Vishanpuri colony lane no 6 <br />
-              mundera ponghatpul prayagraj 211012
+              Vishanpuri Colony, Lane No: 6 <br />
+              Mundera Ponghatpul, Prayagraj <br />
+              211012
             </h6>
             <h6 class="mt-30 mb-15">
               <a href="mailto:100xdropship@gmail.com">100xdropship@gmail.com</a>

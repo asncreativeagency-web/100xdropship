@@ -9,7 +9,11 @@
             </div>
             <div class="morinfo mt-50 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Address</h6>
-              <p>Vishanpuri colony lane no 6 mundera ponghatpul prayagraj 211012</p>
+              <p>
+                Vishanpuri Colony, Lane No: 6 <br />
+                Mundera Ponghatpul, Prayagraj <br />
+                211012
+              </p>
             </div>
             <div class="morinfo mt-30 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Email</h6>
