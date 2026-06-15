@@ -5,15 +5,15 @@
         <div class="col-lg-4 valign">
           <div class="sec-head info-box full-width md-mb80">
             <div class="phone fz-30 fw-600 underline main-color">
-              <a href="tel:+18408412569">+1 840 841 25 69</a>
+              <a href="tel:+918858185272">+91 88581 85272</a>
             </div>
             <div class="morinfo mt-50 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Address</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+              <p>Vishanpuri colony lane no 6 mundera ponghatpul prayagraj 211012</p>
             </div>
             <div class="morinfo mt-30 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Email</h6>
-              <p><a href="mailto:hello@100xdropship.com">hello@100xdropship.com</a></p>
+              <p><a href="mailto:100xdropship@gmail.com">100xdropship@gmail.com</a></p>
             </div>
 
             <div class="social-icon mt-50">

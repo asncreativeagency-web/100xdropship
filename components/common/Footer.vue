@@ -11,14 +11,14 @@
           <div class="column md-mb50">
             <h6 class="sub-title mb-30">Contact</h6>
             <h6 class="p-color fw-400">
-              5919 Trussville Crossings <br />
-              Pkwy, Birmingham
+              Vishanpuri colony lane no 6 <br />
+              mundera ponghatpul prayagraj 211012
             </h6>
             <h6 class="mt-30 mb-15">
-              <a href="mailto:hello@100xdropship.com">hello@100xdropship.com</a>
+              <a href="mailto:100xdropship@gmail.com">100xdropship@gmail.com</a>
             </h6>
-            <a href="#0" class="underline">
-              <span class="fz-22 main-color">+91 98765 43210</span>
+            <a href="tel:+918858185272" class="underline">
+              <span class="fz-22 main-color">+91 88581 85272</span>
             </a>
           </div>
         </div>
