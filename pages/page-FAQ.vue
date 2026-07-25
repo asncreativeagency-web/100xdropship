@@ -11,7 +11,6 @@
         <FAQS />
         <Numbers />
         <Testimonials />
-        <Clients />
         <Blog />
         <Marq2 />
       </main>
@@ -27,7 +26,6 @@ import LoadingScreen from '@/components/common/loader';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Marq2 from '@/components/common/Marq2';
-import Clients from '@/components/common/Clients';
 import Blog from '@/components/home-main/Blog';
 import Testimonials from '@/components/home-creative-agency/Testimonials';
 import Header from '@/components/page-FAQ/Header';

@@ -15,7 +15,6 @@
         <Feat />
         <Team />
         <Testimonials />
-        <Clients />
         <Blog />
         <Marq2 />
       </main>
@@ -38,7 +37,6 @@ import Intro from '@/components/home-modern-studio/Intro';
 import Numbers from '@/components/home-modern-studio/Numbers';
 import Portfolio from '@/components/home-modern-studio/Portfolio';
 import Feat from '@/components/home-modern-studio/Feat';
-import Clients from '@/components/common/Clients';
 import Team from '@/components/home-modern-studio/Team';
 import Testimonials from '@/components/home-modern-studio/Testimonials';
 

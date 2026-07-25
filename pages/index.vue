@@ -14,7 +14,6 @@
         <Portfolio />
         <Feat />
         <Testimonials />
-        <Clients />
         <Blog />
         <Marq2 />
       </main>
@@ -29,7 +28,6 @@ import Cursor from '@/components/common/cusor';
 import LoadingScreen from '@/components/common/loader';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
-import Clients from '@/components/common/Clients';
 import Marq2 from '@/components/common/Marq2';
 import Header from '@/components/home-digital-agency/Header';
 import Services from '@/components/home-digital-agency/Services';

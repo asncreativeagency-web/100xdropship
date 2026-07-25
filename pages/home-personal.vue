@@ -13,7 +13,6 @@
         <Portfolio />
         <Skills />
         <Testimonials />
-        <Clients />
         <Blog />
         <Marq2 />
       </main>
@@ -30,7 +29,6 @@ import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Marq2 from '@/components/common/Marq2';
 import Header from '@/components/home-personal/Header';
-import Clients from '@/components/common/Clients';
 import Blog from '@/components/home-digital-agency/Blog';
 import Testimonials from '@/components/home-modern-studio/Testimonials';
 import Marq from '@/components/home-personal/Marq';

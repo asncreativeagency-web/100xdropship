@@ -15,7 +15,6 @@
         <Feat />
         <Team />
         <Testimonials />
-        <Clients />
         <Marq2 />
       </main>
       <Footer />
@@ -30,7 +29,6 @@ import LoadingScreen from '@/components/common/loader';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Marq2 from '@/components/common/Marq2';
-import Clients from '@/components/home-main/Clients';
 import Feat from '@/components/home-main/Feat';
 import Header from '@/components/home-main/Header';
 import Intro from '@/components/home-main/Intro';
